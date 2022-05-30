@@ -1,2 +1,2 @@
-# Sign-up-form-my-frist-project
-This is my first JavaScript Project 
+# Sign-up-form-my-second-project
+This is my second JavaScript Project 
